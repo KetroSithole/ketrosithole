@@ -4,7 +4,16 @@
 
 4xHackathon Winner |Front-End Developer |Data Scientist |Information specialist.
 
-Skills: 𝗧𝗿𝗮𝗻𝘀𝗳𝗲𝗿𝗮𝗯𝗹𝗲 𝗦𝗸𝗶𝗹𝗹𝘀 & 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲  ✔ Public Speaking ✔ Data Analysis  ✔ Providing Technical Support ✔ Innovation & Idea Creation ✔ Data Capturing ✔ Reporting & Feedback ✔ Research  ✔ Microsoft Office Excel, Word, PowerPoint ✔ R Programming Language ✔ SAS / SQL / Python ✔ Front-End Developer
+Skills: 𝗧𝗿𝗮𝗻𝘀𝗳𝗲𝗿𝗮𝗯𝗹𝗲 𝗦𝗸𝗶𝗹𝗹𝘀 & 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲  
+✔ Public Speaking ✔ Data Analysis  
+✔ Providing Technical Support 
+✔ Innovation & Idea Creation 
+✔ Data Capturing 
+✔ Reporting & Feedback 
+✔ Research  
+✔ Microsoft Office Excel, Word, PowerPoint 
+✔ R Programming Language ✔ SAS / SQL / Python 
+✔ Front-End Developer
 
 - 📫 How to reach me: Email: Sithole.tk@tuks.co.za, 0749076929  
 - ⚡ Fun fact: I love Gym. 
