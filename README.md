@@ -1,38 +1,29 @@
-### Hi there 👋, My Name is Ketro Sithole
-#### BSc Computer and Information sciences 
-![BSc Computer and Information sciences ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<h1 align="center">Hi 👋, I'm Ketro Sithole</h1>
+<h3 align="center">A passionate frontend developer from South Africa</h3>
 
-4xHackathon Winner |Front-End Developer |Data Scientist |Information specialist.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ketrosithole&label=Profile%20views&color=0e75b6&style=flat" alt="ketrosithole" /> </p>
 
-Skills: 𝗧𝗿𝗮𝗻𝘀𝗳𝗲𝗿𝗮𝗯𝗹𝗲 𝗦𝗸𝗶𝗹𝗹𝘀 & 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲  
-✔ Public Speaking ✔ Data Analysis  
-✔ Providing Technical Support 
-✔ Innovation & Idea Creation 
-✔ Data Capturing 
-✔ Reporting & Feedback 
-✔ Research  
-✔ Microsoft Office Excel, Word, PowerPoint 
-✔ R Programming Language ✔ SAS / SQL / Python 
-✔ Front-End Developer
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketrosithole" alt="ketrosithole" /></a> </p>
 
-- 📫 How to reach me: Email: Sithole.tk@tuks.co.za, 0749076929  
-- ⚡ Fun fact: I love Gym. 
+<p align="left"> <a href="https://twitter.com/https://twitter.com/ketrosithole" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/ketrosithole?logo=twitter&style=for-the-badge" alt="https://twitter.com/ketrosithole" /></a> </p>
 
+- 📫 How to reach me **sithole.tk@tuks.co.za**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KetroSithole)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ketrosithole)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/tman.fit/?hl=en/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/KetroSithole)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCVSo2nOxj8UjAxuZfbamtRg)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://twitter.com/ketrosithole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ketrosithole" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ketro-sithole-76b8b1165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ketro-sithole-76b8b1165/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100009520805113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009520805113" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/tman.fit/?hl=en%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tman.fit/?hl=en%2f" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucvso2noxj8ujaxuzfbamtrg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucvso2noxj8ujaxuzfbamtrg" height="30" width="40" /></a>
+<a href="https://discord.gg/ketrosithole#2072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ketrosithole#2072" height="30" width="40" /></a>
+</p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KetroSithole)](https://github.com/ryo-ma/github-profile-trophy)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ketrosithole&show_icons=true&locale=en&layout=compact" alt="ketrosithole" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KetroSithole)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ketrosithole&show_icons=true&locale=en" alt="ketrosithole" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KetroSithole&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KetroSithole)  
-
-![GitHub metrics](https://metrics.lecoq.io/KetroSithole)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KetroSithole)  
-
-![Profile views](https://gpvc.arturio.dev/KetroSithole)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ketrosithole&" alt="ketrosithole" /></p>
