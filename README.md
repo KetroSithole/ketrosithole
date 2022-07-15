@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ketro Sithole</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h3 align="center">An aspiring Data specialist with interests in business analysis, information consultancy, organizational change management, business intelligence, and competitive analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketrosithole&label=Profile%20views&color=0e75b6&style=flat" alt="ketrosithole" /> </p>
 
