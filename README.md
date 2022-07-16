@@ -35,7 +35,10 @@ An aspiring Data specialist with interests in business analysis, information con
 
 ### Socials
 
-
+<a href="#" class="fa fa-facebook"></a>  
+<a href="#" class="fa fa-twitter"></a>  
+<a href="#" class="fa fa-pinterest"></a>  
+<a href="#" class="fa fa-linkedin"></a> 
 
 ### Badges
 
