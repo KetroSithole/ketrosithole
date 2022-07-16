@@ -10,9 +10,6 @@ An aspiring Data specialist with interests in business analysis, information con
 * ✉️  You can contact me at [Sithole.tk@tuks.co.za](mailto:Sithole.tk@tuks.co.za)
 * 🧠  I'm learning Backend-Development
 
-<a href="https://www.twitch.tv/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&color=000000&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-
 ### Skills
 
 <p align="left">
