@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist & Web developer who is passionate about Front-End.
 -------------------
 
-An aspiring Data specialist with interests in business analysis, information consultancy, organizational change management, business intelligence, and competitive analysis
+Data specialist with interests in business analysis, information consultancy, organizational change management, business intelligence, and competitive analysis
 
 * 🌍  I'm based in South Africa ,Pretoria
 * ✉️  You can contact me at [Sithole.tk@tuks.co.za](mailto:Sithole.tk@tuks.co.za)
